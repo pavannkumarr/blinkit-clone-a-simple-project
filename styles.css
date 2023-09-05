@@ -208,3 +208,10 @@ table {
     margin-top: 30px;
   }
 }
+@media screen and (max-width:390px) {
+.for-mobile{
+ width: 70% !important;
+ margin-left: 60px !important; 
+ padding-top:30px;
+  }
+}
